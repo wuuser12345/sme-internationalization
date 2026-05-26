@@ -1,10 +1,16 @@
-# SME Internationalization and Firm Performance
+# Firm Size and Firm Performance
 
 ### Research Note Project | SS 2026 Dilara
 
 ## Research Question
 
 Does firm size have a positive linear relationship with firm performance among European firms?
+
+## Theoretical Background
+
+The hypothesis is based on the resource-based view of the firm and arguments related to economies of scale. Larger firms usually have access to more financial, organizational and managerial resources. These resources can help firms operate more efficiently, invest in productive assets and spread fixed costs over a larger output base. Therefore, firm size may be associated with better firm performance.
+
+At the same time, firm size is not automatically beneficial, because larger firms may also face higher coordination costs and more complex organizational structures. However, for this research note, the focus is on testing the simple linear expectation that larger firms perform better.
 
 ## Hypothesis
 
