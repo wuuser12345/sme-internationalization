@@ -39,6 +39,28 @@ Where:
 - NI = Net Income
 - AT = Total Assets
 
+## Variables
+
+### Dependent variable (Y)
+
+| Construct | Data Item(s) | Formula |
+|-----------|--------------|---------|
+| Firm performance (ROA) | NI, AT | NI / AT |
+
+### Independent variable (X)
+
+| Construct | Data Item(s) | Formula |
+|-----------|--------------|---------|
+| Firm size | AT | log(AT) |
+
+### Control variables
+
+| Construct | Data Item(s) | Formula |
+|-----------|--------------|---------|
+| Leverage | DLTT, DLC, SEQ | (DLTT + DLC) / SEQ |
+| Firm age | FYEAR, INCO | FYEAR - INCO |
+| Industry | SIC or NAICS | categorical control |
+
 ## Empirical Strategy
 
 The hypothesis will be tested using a simple linear regression model in Python. The dependent variable is firm performance, measured as ROA. The independent variable is firm size, measured as the logarithm of total assets.
